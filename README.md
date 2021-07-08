@@ -1,4 +1,4 @@
-# Burp Raw Requests Reporter
+# Burp Raw Requests to CSV Converter
 
 Required: Python3
 

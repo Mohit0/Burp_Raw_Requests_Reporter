@@ -1,6 +1,7 @@
 # Burp Raw Requests Reporter
 
-Required: Python3\n
+Required: Python3
+
 Libraries Used: xlsxwriter, bs4
 
 Usage: 

@@ -14,6 +14,6 @@ Usage:
 
 ![image](https://user-images.githubusercontent.com/17490996/124875597-b6f65080-dfe6-11eb-811b-c2149270e869.png)
 
-Output:
+Output Samples:
 ![image](https://user-images.githubusercontent.com/17490996/124878490-c925be00-dfe9-11eb-8f80-148b422f6fe6.png)
 ![image](https://user-images.githubusercontent.com/17490996/124881376-e4de9380-dfec-11eb-943d-22d8be9df77b.png)
